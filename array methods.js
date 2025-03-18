@@ -1,4 +1,4 @@
-let eids=[101,102,103,104]
+/*let eids=[101,102,103,104]
 eids.push(105)
 console.log(eids)
 
@@ -19,8 +19,14 @@ enames.reverse()
 console.log(enames)
 
 let eids=[101,102,103,104]
-console.log(eids.indexOf(103))
+console.log(eids.indexOf(103))*/
 
 let enames=["balaji","hari","sai"]
 console.log(enames.indexOf("balaji"))
+
+
+
+
+    
+
 
